@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby ">=3.1.6"
 
-gem "rails", "~> 8.0.0"
+gem "rails", "~> 8.0.1"
 gem "propshaft"
 gem "puma", ">= 5.0"
 gem "importmap-rails"
